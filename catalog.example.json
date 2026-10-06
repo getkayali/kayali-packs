@@ -1,0 +1,9 @@
+{
+  "packs": [
+    { "id": "saudi",        "url": "https://your-host/saudi.json",        "size": "≈ ??? MB" },
+    { "id": "lebanon",      "url": "https://your-host/lebanon.json",      "size": "≈ ??? MB" },
+    { "id": "jordan",       "url": "https://your-host/jordan.json",       "size": "≈ ??? MB" },
+    { "id": "iraq",         "url": "https://your-host/iraq.json",         "size": "≈ ??? MB" },
+    { "id": "turkey_south", "url": "https://your-host/turkey_south.json", "size": "≈ ??? MB" }
+  ]
+}
